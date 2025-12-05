@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# But don't ignore .java files
+!*.java
+
+# Don't ignore PDF files
+!*.pdf
+
+# Don't ignore the .gitignore file itself
+!.gitignore
+
+# Don't ignore folders 
+!*/
+
+
+!*.md
+!README*
